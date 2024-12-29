@@ -43,11 +43,11 @@ sessionid = "your_session_id"
 
 ### ask 命令的示例使用
 
-![ask命令截图](https://im.gurl.eu.org/file/AgACAgEAAxkDAAIPwWdxQJ-vPOqBU3Q4PJJhiQVgEE2gAAL0rzEbfCuJR6DluyA7-LCZAQADAgADeQADNgQ.png)
+![ask命令截图](https://ice.frostsky.com/2024/12/29/bdbe5d5069a91784b563d026f22857a2.png)
 
 ### fix 命令的示例使用
 
-![fix命令截图](https://im.gurl.eu.org/file/AgACAgEAAxkDAAIPwmdxQLsY5h0axNlb_CrE99oFjSm4AAL1rzEbfCuJRwd-AS-EnUKXAQADAgADeQADNgQ.png)
+![fix命令截图](https://ice.frostsky.com/2024/12/29/c82217e5bc6179e4dc497dfee3f7ed07.png)
 
 ## 贡献
 
