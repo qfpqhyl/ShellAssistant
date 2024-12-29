@@ -43,11 +43,11 @@ sessionid = "your_session_id"
 
 ### ask 命令的示例使用
 
-![ask 命令截图](Img\ask_sample.png)
+![ask 命令截图](img/ask_sample.png)
 
 ### fix 命令的示例使用
 
-![fix 命令截图](Img\fix_sample.png)
+![fix 命令截图](img/fix_sample.png)
 
 ## 贡献
 
